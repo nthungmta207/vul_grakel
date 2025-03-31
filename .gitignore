@@ -1,0 +1,12 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+data/
+linevul/
+*.pt
+*.zip
+*.pk
+*.pkl
