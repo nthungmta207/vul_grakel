@@ -4,8 +4,6 @@ env/
 .env/
 __pycache__/
 *.pyc
-data/
-linevul/
 *.pt
 *.zip
 *.pk
